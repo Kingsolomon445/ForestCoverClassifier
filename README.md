@@ -13,4 +13,4 @@ The covertypes are the following:
 * Krummholz
 
 
-** Dataset was supplied by codecademy
+*Dataset was supplied by Codecademy*
