@@ -11,3 +11,6 @@ The covertypes are the following:
 * Aspen
 * Douglas-fir
 * Krummholz
+
+
+** Dataset was supplied by codecademy
